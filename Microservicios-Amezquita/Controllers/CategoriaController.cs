@@ -28,7 +28,7 @@ namespace Microservicios_Amezquita.Controllers
         [HttpGet("{id}")]
         public async Task<ActionResult<Categoria>> Get(int id)
         {
-            var categoria = await _db.Categorias.FindAsync(id); // ← bug corregido
+            var categoria = await _db.Categorias.FindAsync(id); 
             if (categoria == null)
             {
                 return NotFound(new { mensaje = "Categoria no encontrada" });
@@ -47,7 +47,7 @@ namespace Microservicios_Amezquita.Controllers
             _db.Categorias.Add(categoria);
             await _db.SaveChangesAsync();
 
-            // Retorna 201 Created con la URL del nuevo recurso
+            
             return CreatedAtAction(nameof(Get), new { id = categoria.Id }, categoria);
         }
 
@@ -78,7 +78,7 @@ namespace Microservicios_Amezquita.Controllers
                 throw;
             }
 
-            return NoContent(); // 204 - éxito sin contenido que devolver
+            return NoContent(); 
         }
 
         // DELETE: api/Categoria/5
@@ -94,7 +94,7 @@ namespace Microservicios_Amezquita.Controllers
             _db.Categorias.Remove(categoria);
             await _db.SaveChangesAsync();
 
-            return NoContent(); // 204 - eliminado correctamente
+            return NoContent(); 
         }
     }
 }
