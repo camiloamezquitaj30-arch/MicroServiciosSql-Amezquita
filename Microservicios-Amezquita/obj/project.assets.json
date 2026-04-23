@@ -3276,11 +3276,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Microservicios-Amezquita\\Microservicios-Amezquita\\Microservicios-Amezquita.csproj",
+      "projectUniqueName": "C:\\Microservicios-Amezquita\\MicroServiciosSql-Amezquita\\Microservicios-Amezquita\\Microservicios-Amezquita.csproj",
       "projectName": "Microservicios-Amezquita",
-      "projectPath": "C:\\Microservicios-Amezquita\\Microservicios-Amezquita\\Microservicios-Amezquita.csproj",
+      "projectPath": "C:\\Microservicios-Amezquita\\MicroServiciosSql-Amezquita\\Microservicios-Amezquita\\Microservicios-Amezquita.csproj",
       "packagesPath": "C:\\Users\\camil\\.nuget\\packages\\",
-      "outputPath": "C:\\Microservicios-Amezquita\\Microservicios-Amezquita\\obj\\",
+      "outputPath": "C:\\Microservicios-Amezquita\\MicroServiciosSql-Amezquita\\Microservicios-Amezquita\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

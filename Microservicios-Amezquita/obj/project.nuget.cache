@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xPEEHA4MZQk=",
+  "dgSpecHash": "58NWY7ggKTo=",
   "success": true,
-  "projectFilePath": "C:\\Microservicios-Amezquita\\Microservicios-Amezquita\\Microservicios-Amezquita.csproj",
+  "projectFilePath": "C:\\Microservicios-Amezquita\\MicroServiciosSql-Amezquita\\Microservicios-Amezquita\\Microservicios-Amezquita.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\camil\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\camil\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

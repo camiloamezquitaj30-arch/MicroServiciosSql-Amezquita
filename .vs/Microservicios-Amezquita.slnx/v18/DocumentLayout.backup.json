@@ -1,33 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Microservicios-Amezquita\\",
+  "WorkspaceRootPath": "C:\\Microservicios-Amezquita\\MicroServiciosSql-Amezquita\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9ED8844-0FB3-0656-E912-1893598E2BAE}|Microservicios-Amezquita\\Microservicios-Amezquita.csproj|c:\\microservicios-amezquita\\microservicios-amezquita\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9ED8844-0FB3-0656-E912-1893598E2BAE}|Microservicios-Amezquita\\Microservicios-Amezquita.csproj|solutionrelative:microservicios-amezquita\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Microservicios-Amezquita\\MicroServiciosSql-Amezquita\\Microservicios-Amezquita\\Migrations\\20260423152407_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Microservicios-Amezquita\\Migrations\\20260423152407_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9ED8844-0FB3-0656-E912-1893598E2BAE}|Microservicios-Amezquita\\Microservicios-Amezquita.csproj|c:\\microservicios-amezquita\\microservicios-amezquita\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F9ED8844-0FB3-0656-E912-1893598E2BAE}|Microservicios-Amezquita\\Microservicios-Amezquita.csproj|c:\\microservicios-amezquita\\microserviciossql-amezquita\\microservicios-amezquita\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9ED8844-0FB3-0656-E912-1893598E2BAE}|Microservicios-Amezquita\\Microservicios-Amezquita.csproj|solutionrelative:microservicios-amezquita\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9ED8844-0FB3-0656-E912-1893598E2BAE}|Microservicios-Amezquita\\Microservicios-Amezquita.csproj|c:\\microservicios-amezquita\\microservicios-amezquita\\microservicios-amezquita.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F9ED8844-0FB3-0656-E912-1893598E2BAE}|Microservicios-Amezquita\\Microservicios-Amezquita.csproj|solutionrelative:microservicios-amezquita\\microservicios-amezquita.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{F9ED8844-0FB3-0656-E912-1893598E2BAE}|Microservicios-Amezquita\\Microservicios-Amezquita.csproj|c:\\microservicios-amezquita\\microserviciossql-amezquita\\microservicios-amezquita\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9ED8844-0FB3-0656-E912-1893598E2BAE}|Microservicios-Amezquita\\Microservicios-Amezquita.csproj|solutionrelative:microservicios-amezquita\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9ED8844-0FB3-0656-E912-1893598E2BAE}|Microservicios-Amezquita\\Microservicios-Amezquita.csproj|c:\\microservicios-amezquita\\microservicios-amezquita\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F9ED8844-0FB3-0656-E912-1893598E2BAE}|Microservicios-Amezquita\\Microservicios-Amezquita.csproj|c:\\microservicios-amezquita\\microserviciossql-amezquita\\microservicios-amezquita\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9ED8844-0FB3-0656-E912-1893598E2BAE}|Microservicios-Amezquita\\Microservicios-Amezquita.csproj|solutionrelative:microservicios-amezquita\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9ED8844-0FB3-0656-E912-1893598E2BAE}|Microservicios-Amezquita\\Microservicios-Amezquita.csproj|c:\\microservicios-amezquita\\microserviciossql-amezquita\\microservicios-amezquita\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9ED8844-0FB3-0656-E912-1893598E2BAE}|Microservicios-Amezquita\\Microservicios-Amezquita.csproj|solutionrelative:microservicios-amezquita\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9ED8844-0FB3-0656-E912-1893598E2BAE}|Microservicios-Amezquita\\Microservicios-Amezquita.csproj|c:\\microservicios-amezquita\\microserviciossql-amezquita\\microservicios-amezquita\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9ED8844-0FB3-0656-E912-1893598E2BAE}|Microservicios-Amezquita\\Microservicios-Amezquita.csproj|solutionrelative:microservicios-amezquita\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9ED8844-0FB3-0656-E912-1893598E2BAE}|Microservicios-Amezquita\\Microservicios-Amezquita.csproj|c:\\microservicios-amezquita\\microservicios-amezquita\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{F9ED8844-0FB3-0656-E912-1893598E2BAE}|Microservicios-Amezquita\\Microservicios-Amezquita.csproj|c:\\microservicios-amezquita\\microserviciossql-amezquita\\microservicios-amezquita\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9ED8844-0FB3-0656-E912-1893598E2BAE}|Microservicios-Amezquita\\Microservicios-Amezquita.csproj|solutionrelative:microservicios-amezquita\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9ED8844-0FB3-0656-E912-1893598E2BAE}|Microservicios-Amezquita\\Microservicios-Amezquita.csproj|c:\\microservicios-amezquita\\microserviciossql-amezquita\\microservicios-amezquita\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F9ED8844-0FB3-0656-E912-1893598E2BAE}|Microservicios-Amezquita\\Microservicios-Amezquita.csproj|solutionrelative:microservicios-amezquita\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9ED8844-0FB3-0656-E912-1893598E2BAE}|Microservicios-Amezquita\\Microservicios-Amezquita.csproj|c:\\microservicios-amezquita\\microservicios-amezquita\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F9ED8844-0FB3-0656-E912-1893598E2BAE}|Microservicios-Amezquita\\Microservicios-Amezquita.csproj|c:\\microservicios-amezquita\\microserviciossql-amezquita\\microservicios-amezquita\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9ED8844-0FB3-0656-E912-1893598E2BAE}|Microservicios-Amezquita\\Microservicios-Amezquita.csproj|solutionrelative:microservicios-amezquita\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9ED8844-0FB3-0656-E912-1893598E2BAE}|Microservicios-Amezquita\\Microservicios-Amezquita.csproj|c:\\microservicios-amezquita\\microservicios-amezquita\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{F9ED8844-0FB3-0656-E912-1893598E2BAE}|Microservicios-Amezquita\\Microservicios-Amezquita.csproj|c:\\microservicios-amezquita\\microserviciossql-amezquita\\microservicios-amezquita\\microservicios-amezquita.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F9ED8844-0FB3-0656-E912-1893598E2BAE}|Microservicios-Amezquita\\Microservicios-Amezquita.csproj|solutionrelative:microservicios-amezquita\\microservicios-amezquita.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9ED8844-0FB3-0656-E912-1893598E2BAE}|Microservicios-Amezquita\\Microservicios-Amezquita.csproj|c:\\microservicios-amezquita\\microserviciossql-amezquita\\microservicios-amezquita\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F9ED8844-0FB3-0656-E912-1893598E2BAE}|Microservicios-Amezquita\\Microservicios-Amezquita.csproj|solutionrelative:microservicios-amezquita\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -38,80 +54,126 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260423152407_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Microservicios-Amezquita\\MicroServiciosSql-Amezquita\\Microservicios-Amezquita\\Migrations\\20260423152407_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Microservicios-Amezquita\\Migrations\\20260423152407_InitialCreate.cs",
+              "ToolTip": "C:\\Microservicios-Amezquita\\MicroServiciosSql-Amezquita\\Microservicios-Amezquita\\Migrations\\20260423152407_InitialCreate.cs",
+              "RelativeToolTip": "Microservicios-Amezquita\\Migrations\\20260423152407_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T15:24:07.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Microservicios-Amezquita\\Microservicios-Amezquita\\appsettings.json",
-              "RelativeDocumentMoniker": "Microservicios-Amezquita\\appsettings.json",
-              "ToolTip": "C:\\Microservicios-Amezquita\\Microservicios-Amezquita\\appsettings.json",
-              "RelativeToolTip": "Microservicios-Amezquita\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-12T20:12:26.399Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Microservicios-Amezquita\\Microservicios-Amezquita\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Microservicios-Amezquita\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Microservicios-Amezquita\\Microservicios-Amezquita\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Microservicios-Amezquita\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Microservicios-Amezquita\\MicroServiciosSql-Amezquita\\Microservicios-Amezquita\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "Microservicios-Amezquita\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Microservicios-Amezquita\\MicroServiciosSql-Amezquita\\Microservicios-Amezquita\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "Microservicios-Amezquita\\Controllers\\CategoriaController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwGMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T15:03:20.65Z"
+              "WhenOpened": "2026-04-16T14:47:43.365Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Microservicios-Amezquita.csproj",
-              "DocumentMoniker": "C:\\Microservicios-Amezquita\\Microservicios-Amezquita\\Microservicios-Amezquita.csproj",
-              "RelativeDocumentMoniker": "Microservicios-Amezquita\\Microservicios-Amezquita.csproj",
-              "ToolTip": "C:\\Microservicios-Amezquita\\Microservicios-Amezquita\\Microservicios-Amezquita.csproj",
-              "RelativeToolTip": "Microservicios-Amezquita\\Microservicios-Amezquita.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-09T15:01:52.744Z"
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Microservicios-Amezquita\\MicroServiciosSql-Amezquita\\Microservicios-Amezquita\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Microservicios-Amezquita\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Microservicios-Amezquita\\MicroServiciosSql-Amezquita\\Microservicios-Amezquita\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Microservicios-Amezquita\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T15:03:20.65Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "ProductoController.cs",
-              "DocumentMoniker": "C:\\Microservicios-Amezquita\\Microservicios-Amezquita\\Controllers\\ProductoController.cs",
+              "DocumentMoniker": "C:\\Microservicios-Amezquita\\MicroServiciosSql-Amezquita\\Microservicios-Amezquita\\Controllers\\ProductoController.cs",
               "RelativeDocumentMoniker": "Microservicios-Amezquita\\Controllers\\ProductoController.cs",
-              "ToolTip": "C:\\Microservicios-Amezquita\\Microservicios-Amezquita\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Microservicios-Amezquita\\MicroServiciosSql-Amezquita\\Microservicios-Amezquita\\Controllers\\ProductoController.cs",
               "RelativeToolTip": "Microservicios-Amezquita\\Controllers\\ProductoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAQwGIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-09T14:59:07.344Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Microservicios-Amezquita\\Microservicios-Amezquita\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Microservicios-Amezquita\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Microservicios-Amezquita\\Microservicios-Amezquita\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Microservicios-Amezquita\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Microservicios-Amezquita\\MicroServiciosSql-Amezquita\\Microservicios-Amezquita\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Microservicios-Amezquita\\Models\\Producto.cs",
+              "ToolTip": "C:\\Microservicios-Amezquita\\MicroServiciosSql-Amezquita\\Microservicios-Amezquita\\Models\\Producto.cs",
+              "RelativeToolTip": "Microservicios-Amezquita\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-12T20:12:06.36Z"
+              "WhenOpened": "2026-04-16T14:20:56.783Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Microservicios-Amezquita\\MicroServiciosSql-Amezquita\\Microservicios-Amezquita\\appsettings.json",
+              "RelativeDocumentMoniker": "Microservicios-Amezquita\\appsettings.json",
+              "ToolTip": "C:\\Microservicios-Amezquita\\MicroServiciosSql-Amezquita\\Microservicios-Amezquita\\appsettings.json",
+              "RelativeToolTip": "Microservicios-Amezquita\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-12T20:12:26.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Microservicios-Amezquita\\MicroServiciosSql-Amezquita\\Microservicios-Amezquita\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Microservicios-Amezquita\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Microservicios-Amezquita\\MicroServiciosSql-Amezquita\\Microservicios-Amezquita\\Models\\Categoria.cs",
+              "RelativeToolTip": "Microservicios-Amezquita\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T14:24:26.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Microservicios-Amezquita\\MicroServiciosSql-Amezquita\\Microservicios-Amezquita\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Microservicios-Amezquita\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Microservicios-Amezquita\\MicroServiciosSql-Amezquita\\Microservicios-Amezquita\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Microservicios-Amezquita\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T20:12:06.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Microservicios-Amezquita\\Microservicios-Amezquita\\Program.cs",
+              "DocumentMoniker": "C:\\Microservicios-Amezquita\\MicroServiciosSql-Amezquita\\Microservicios-Amezquita\\Program.cs",
               "RelativeDocumentMoniker": "Microservicios-Amezquita\\Program.cs",
-              "ToolTip": "C:\\Microservicios-Amezquita\\Microservicios-Amezquita\\Program.cs",
+              "ToolTip": "C:\\Microservicios-Amezquita\\MicroServiciosSql-Amezquita\\Microservicios-Amezquita\\Program.cs",
               "RelativeToolTip": "Microservicios-Amezquita\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -119,11 +181,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
+              "Title": "Microservicios-Amezquita.csproj",
+              "DocumentMoniker": "C:\\Microservicios-Amezquita\\MicroServiciosSql-Amezquita\\Microservicios-Amezquita\\Microservicios-Amezquita.csproj",
+              "RelativeDocumentMoniker": "Microservicios-Amezquita\\Microservicios-Amezquita.csproj",
+              "ToolTip": "C:\\Microservicios-Amezquita\\MicroServiciosSql-Amezquita\\Microservicios-Amezquita\\Microservicios-Amezquita.csproj",
+              "RelativeToolTip": "Microservicios-Amezquita\\Microservicios-Amezquita.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-09T15:01:52.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Microservicios-Amezquita\\Microservicios-Amezquita\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Microservicios-Amezquita\\MicroServiciosSql-Amezquita\\Microservicios-Amezquita\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Microservicios-Amezquita\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Microservicios-Amezquita\\Microservicios-Amezquita\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Microservicios-Amezquita\\MicroServiciosSql-Amezquita\\Microservicios-Amezquita\\Properties\\launchSettings.json",
               "RelativeToolTip": "Microservicios-Amezquita\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
